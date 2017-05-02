@@ -1,20 +1,20 @@
 ﻿socketTest
 
 
-library
+winexe
 C#
 .cs
-C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\
+G:\GitHub\socketTest\socketTest\obj\x86\Debug\
 socketTest
 none
 false
 DEBUG;TRACE
-
-5-1665592204
+G:\GitHub\socketTest\socketTest\App.xaml
+4-2033654320
 1210614951
 30-16029096
-212056714373
-App.xaml;CInput\NetIPControl.xaml;CInput\NetMACAddressControl.xaml;FNetEquipManager.xaml;MainWindow.xaml;
+21-286119169
+CInput\NetIPControl.xaml;CInput\NetMACAddressControl.xaml;FNetEquipManager.xaml;MainWindow.xaml;
 
-False
+True
 

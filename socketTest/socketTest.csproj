@@ -6,7 +6,7 @@
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{D8327BF9-05BB-482B-BA2C-294A117FFEB0}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>socketTest</RootNamespace>
     <AssemblyName>socketTest</AssemblyName>
@@ -86,10 +86,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Page Include="App.xaml">
+    <ApplicationDefinition Include="App.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
-    </Page>
+    </ApplicationDefinition>
     <Compile Include="CCommon.cs" />
     <Compile Include="CData\CDataNetFirewallLogControl.cs" />
     <Compile Include="CInput\CIPv4ValidationRule.cs" />
