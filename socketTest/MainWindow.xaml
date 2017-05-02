@@ -1,0 +1,63 @@
+﻿<Window x:Class="socketTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="异常监测设备" Height="531.667" Width="432"
+         xmlns:local="clr-namespace:socketTest.CInput"
+        Loaded="Window_Loaded">
+    <Grid Margin="0,0,0,3">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="515*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Canvas Name="cavInfo" Background="White" MouseLeftButtonDown="cavInfo_MouseLeftButtonDown" Grid.ColumnSpan="2" Height="498" VerticalAlignment="Top">
+            <Rectangle Canvas.Left="101" Canvas.Top="334" Height="44" Name="rectangle1" Stroke="Blue" Width="291" RadiusX="5" RadiusY="5"/>
+            <Rectangle Canvas.Left="101" Canvas.Top="230" Height="89" Name="rectangle2" Stroke="Blue" Width="291" RadiusX="5" RadiusY="5"/>
+            <Rectangle Canvas.Left="101" Canvas.Top="396" Height="83" Name="rectangle3" Stroke="Blue" Width="291" RadiusX="5" RadiusY="5"/>
+
+            <Label Width="75" Canvas.Left="30" Canvas.Top="10" Content="设备名称" Height="25"   Name="label3" />
+            <TextBox Width="175" Canvas.Left="128" Canvas.Top="10" Background="#FFB1F2A7" Height="25" IsReadOnly="True"  MaxLength="100" Name="txtNetFirewallName" TextChanged="txtNetFirewallName_TextChanged"  />
+            <TextBox Width="175" Canvas.Top="40" Canvas.Left="128" Background="#FFB1F2A7" Height="25" IsReadOnly="True"  MaxLength="100" Name="txtFirewallDeviceID" TextChanged="txtFirewallDeviceID_TextChanged" />
+            <local:NetIPControl Canvas.Left="128" Canvas.Top="70" Height="25" Width="210" x:Name="txtMaskedIPAddress"  KeyboardNavigation.TabNavigation="Local"  Background="#FFB1F2A7"/>
+
+            <Label Content="装置ID" Height="25"   Name="label5" Width="65" Canvas.Left="30" Canvas.Top="40" />
+            <Label Width="65" Canvas.Left="30" Canvas.Top="71" Content="IP地址" Height="25"   Name="label6" />
+            <Label Width="50" Canvas.Left="30" Canvas.Top="160" Content="用户名" Height="25"   Name="label7"  />
+            <TextBox Width="175" Canvas.Left="128" Canvas.Top="160" Height="25"  MaxLength="16" Name="txtUserName" TabIndex="0" TextChanged="txtUserName_TextChanged" />
+            <Label Width="45" Canvas.Left="30" Canvas.Top="190" Content="密码" Height="25"  Name="label8" />
+            <PasswordBox Width="175" Canvas.Left="128" Canvas.Top="190" Height="25" MaxLength="16" Name="txtUserPassWord" TabIndex="1"  />
+            <ComboBox Width="175" Canvas.Left="128" Canvas.Top="100" Background="#FFB1F2A7" Height="25" IsHitTestVisible="False" IsReadOnly="True"  Name="cboConnectionState" SelectionChanged="cboConnectionState_SelectionChanged"  />
+            <ComboBox Width="175" Canvas.Left="128" Canvas.Top="130" Background="#FFB1F2A7" Height="25" IsHitTestVisible="False" IsReadOnly="True"  Name="cboCurrentRunMode" SelectionChanged="cboCurrentRunMode_SelectionChanged"  />
+            <Label Width="75" Canvas.Left="30" Canvas.Top="100" Content="连接状态" Height="25" Name="label9"  />
+            <Label Width="90" Canvas.Left="30" Canvas.Top="130" Content="当前运行模式" Height="25"  Name="label10"  />
+
+            <Button Canvas.Left="120" Canvas.Top="240" Content="登录" Height="25"  Name="btnNetworkConnection" TabIndex="2" Width="60" HorizontalAlignment="Left" Click="btnNetworkConnection_Click" RenderTransformOrigin="-0.2,1.28" />
+            <Button Canvas.Left="120" Canvas.Top="281" Content="注销" Height="24" Name="btnConnectionCancel" VerticalAlignment="Top" Width="60" Click="btnConnectionCancel_Click"  />
+            <Button Content="恢复出厂设置" Canvas.Left="272" Canvas.Top="344" Width="104" Height="25" VerticalAlignment="Top" Name="btnRestoreDefaultSettings" Click="btnRestoreDefaultSettings_Click"/>
+            <Button Content="获取日志" Height="25" Width="60" Name="btnGetFirewallLogInfo" VerticalAlignment="Top" Click="btnGetFirewallLogInfo_Click" Canvas.Left="196" Canvas.Top="240"  />
+            <Button Content="停止接收日志" Height="25" Width="104" Name="btnStopGetFirewallLog" VerticalAlignment="Top" Click="btnStopGetFirewallLog_Click" Canvas.Left="272" Canvas.Top="240"  />
+            <Button Content="获取流量" Height="25" Width="60" Name="btnGetFirewalTrafficInfo" VerticalAlignment="Top" Click="btnGetFirewalTrafficInfo_Click" Canvas.Left="196" Canvas.Top="281"  />
+            <Button Content="停止接收流量" Height="25" Width="104" Name="btnStopGetTrafficInfo" VerticalAlignment="Top" Click="btnStopGetTrafficInfo_Click" Canvas.Left="272" Canvas.Top="281"  />
+
+            <Button Content="选择规则" Height="25" Width="60" Name="btnRuleChooseSet" VerticalAlignment="Top" Click="btnRuleChooseSet_Click" Canvas.Left="120" Canvas.Top="344"  />
+            <Button Content="规则下载" Height="25" Width="60" Name="btnRuleSet" VerticalAlignment="Top" Click="btnRuleSet_Click" Canvas.Left="196" Canvas.Top="344"  />
+
+            <Label Width="62" Canvas.Left="30" Canvas.Top="334" Content="异常监测&#xD;&#xA;设备属性" Height="40"  Name="labe20" />
+            <Label Width="70" Canvas.Left="30" Canvas.Top="255" Content="异常监测&#xD;&#xA;设备操作" Height="39"  Name="labe21" />
+            <Label Content="异常监测&#xD;&#xA;运行模式"  x:Name="labe21_Copy" Canvas.Left="30" Canvas.Top="417" />
+            <Button Content="启动流量" Height="25" Width="60" Name="btnTrafficOn" VerticalAlignment="Top" Click="btnTrafficOn_Click" Canvas.Left="120" Canvas.Top="408"  />
+            <Button Content="关闭流量" Height="25" Width="60" Name="btnTrafficOff" VerticalAlignment="Top" Click="btnTrafficOff_Click" Canvas.Left="120" Canvas.Top="444"  />
+            <Button Content="启动异常" Height="25" Width="60" Name="btnLogOn" VerticalAlignment="Top" Click="btnLogOn_Click" Canvas.Left="196" Canvas.Top="408"  />
+            <Button Content="关闭异常" Height="25" Width="60" Name="btnLogOff" VerticalAlignment="Top" Click="btnLogOff_Click" Canvas.Left="196" Canvas.Top="444"  />
+            <Button Content="启动训练模式" Height="25" Width="104" Name="btnTestOn" VerticalAlignment="Top" Click="btnTestOn_Click" Canvas.Left="272" Canvas.Top="408"  />
+            <Button Content="关闭训练模式" Height="25" Width="104" Name="btnTestOff" VerticalAlignment="Top" Click="btnTestOff_Click" Canvas.Left="272" Canvas.Top="444"  />
+
+
+
+
+        </Canvas>
+
+
+
+
+    </Grid>
+</Window>

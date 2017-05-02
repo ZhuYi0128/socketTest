@@ -1,0 +1,550 @@
+C:\Users\hzh\Desktop\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\hzh\Desktop\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\hzh\Desktop\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\hzh\Desktop\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\hzh\Desktop\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\hzh\Desktop\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\hzh\Desktop\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\Users\hzh\Desktop\socketTest\socketTest\bin\Debug\socketTest.exe
+C:\Users\hzh\Desktop\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\hzh\Desktop\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\hzh\Desktop\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Documents and Settings\hzh\桌面\2016年科研\2016年11月21日去北京培训备份\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Documents and Settings\hzh\桌面\2016年科研\2016年11月21日去北京培训备份\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\hzh\Desktop\socketTest\socketTest\obj\x86\Debug\socketTest.csprojResolveAssemblyReference.cache
+C:\Users\hzh\Desktop\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\hzh\Desktop\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\hzh\Desktop\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\hzh\Desktop\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hzh\Desktop\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\hzh\Desktop\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\hzh\Desktop\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\bin\Debug\socketTest.exe
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\obj\x86\Debug\socketTest.csprojResolveAssemblyReference.cache
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\hzh\Desktop\事态感知项目\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\bin\Debug\socketTest.exe
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\obj\x86\Debug\socketTest.csprojResolveAssemblyReference.cache
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\zhuyi\Desktop\socket\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\Users\zhuyi\Desktop\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\zhuyi\Desktop\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\zhuyi\Desktop\socketTest\socketTest\bin\Debug\socketTest.exe
+C:\Users\zhuyi\Desktop\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\zhuyi\Desktop\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\zhuyi\Desktop\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\zhuyi\Desktop\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\zhuyi\Desktop\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\zhuyi\Desktop\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\zhuyi\Desktop\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zhuyi\Desktop\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\zhuyi\Desktop\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\zhuyi\Desktop\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\zhuyi\Desktop\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\zhuyi\Desktop\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\zhuyi\Desktop\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\zhuyi\Desktop\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\zhuyi\Desktop\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\bin\Debug\socketTest.exe
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\obj\x86\Debug\socketTest.csprojResolveAssemblyReference.cache
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\zhuyi\Desktop\1.19\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\bin\Debug\socketTest.exe
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\zhuyi\Desktop\工程\1.19\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\NamePwd.baml
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\NamePwd.g.cs
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\IPAddressModify.g.cs
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\IPAddressModify.baml
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.g.cs
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.baml
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\bin\Debug\socketTest.exe
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\socketTest.csprojResolveAssemblyReference.cache
+C:\Users\zhuyi\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\bin\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\bin\Debug\Log4Net.dll
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\NamePwd.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\IPAddressModify.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\NamePwd.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\IPAddressModify.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\项目 新\socket 2.18\socketTest\socketTest\bin\Debug\socketTest.exe.config
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\bin\Debug\socketTest.exe.config
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\bin\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\bin\Debug\Log4Net.dll
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\NamePwd.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\IPAddressModify.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\NamePwd.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\IPAddressModify.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\项目 新\socket 2.25\socketTest\socketTest\obj\x86\Debug\socketTest_Content.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\bin\Debug\socketTest.exe.config
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\bin\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\bin\Debug\Log4Net.dll
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\socketTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\NamePwd.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\IPAddressModify.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\NamePwd.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\socketTest_Content.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\IPAddressModify.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\项目 新\socket 2.25 mac\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+E:\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\bin\Debug\socketTest.exe.config
+E:\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+E:\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\NamePwd.baml
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\App.baml
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\IPAddressModify.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\NamePwd.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\App.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\bin\Debug\socketTest.pdb
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\bin\Debug\Log4Net.dll
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.baml
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\IPAddressModify.baml
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\bin\Debug\socketTest.exe.config
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\bin\Debug\socketTest.exe
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\socketTest.csprojResolveAssemblyReference.cache
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\socketTest_Content.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.27 mac\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\bin\Debug\socketTest.exe.config
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\socketTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\NamePwd.baml
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.g.cs
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\IPAddressModify.g.cs
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\NamePwd.g.cs
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.baml
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\IPAddressModify.baml
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\项目 新\2.27-23.02\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\bin\Debug\Log4Net.dll
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\NamePwd.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\IPAddressModify.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\NamePwd.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\IPAddressModify.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\bin\Debug\socketTest.exe.config
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\bin\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\socketTest_Content.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\bin\Debug\socketTest.exe.config
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\bin\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\bin\Debug\Log4Net.dll
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\NamePwd.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\IPAddressModify.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\NamePwd.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\socketTest_Content.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\IPAddressModify.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 log traffic\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\bin\Debug\socketTest.pdb
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\bin\Debug\Log4Net.dll
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest.csprojResolveAssemblyReference.cache
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\App.baml
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\NamePwd.baml
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\App.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\IPAddressModify.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\NamePwd.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.baml
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\IPAddressModify.baml
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\bin\Debug\socketTest.exe.config
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\bin\Debug\socketTest.exe
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest_Content.g.cs
+G:\备份2017-02-27\韩\验收修改程序2016年2月1日\socket 2.28 log traffic mac\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\bin\Debug\Log4Net.dll
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\NamePwd.baml
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.g.cs
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\IPAddressModify.g.cs
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\NamePwd.g.cs
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.baml
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\IPAddressModify.baml
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\bin\Debug\socketTest.dll.config
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\bin\Debug\socketTest.dll
+C:\Users\Administrator\Desktop\项目 新\2.28\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest.dll
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\NamePwd.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\IPAddressModify.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\NamePwd.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\IPAddressModify.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\bin\Debug\socketTest.dll.config
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\bin\Debug\socketTest.dll
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\bin\Debug\Log4Net.dll
+C:\Users\Administrator\Desktop\项目 新\socket 2.28 15.50\socket 2.28 log traffic mac\socketTest\socketTest\obj\x86\Debug\socketTest.dll
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\bin\Debug\Log4Net.dll
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\NamePwd.baml
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.g.cs
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\IPAddressModify.g.cs
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\NamePwd.g.cs
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.baml
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\IPAddressModify.baml
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\bin\Debug\socketTest.exe.config
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\bin\Debug\socketTest.exe
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\socketTest_Content.g.cs
+C:\E\socket 2.28 ini mac log traffic\socket 2.28 ini mac log traffic\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\3.2-20.41\socketTest\socketTest\bin\Debug\socketTest.exe.config
+C:\Users\Administrator\Desktop\项目 新\3.2-20.41\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\3.2-20.41\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\bin\Debug\socketTest.exe.config
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\bin\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\bin\Debug\Log4Net.dll
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\NamePwd.baml
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\IPAddressModify.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\NamePwd.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\socketTest_Content.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.baml
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\IPAddressModify.baml
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\项目 新\socket 3.2-22.01\socketTest\socketTest\obj\x86\Debug\socketTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\项目 新\socket 3.3-18.07\socketTest\socketTest\bin\Debug\socketTest.exe.config
+C:\Users\Administrator\Desktop\项目 新\socket 3.3-18.07\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\socket 3.3-18.07\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\项目 新\socket 最新\socketTest\socketTest\bin\Debug\socketTest.exe.config
+C:\Users\Administrator\Desktop\项目 新\socket 最新\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\项目 新\socket 最新\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\bin\Debug\Log4Net.dll
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\NamePwd.baml
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.g.cs
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\IPAddressModify.g.cs
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\NamePwd.g.cs
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.baml
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\IPAddressModify.baml
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\bin\Debug\socketTest.exe.config
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\bin\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\socketTest_Content.g.cs
+C:\Users\Administrator\Desktop\NGU-3.3\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\bin\Debug\Log4Net.dll
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\NamePwd.baml
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.g.cs
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\IPAddressModify.g.cs
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\NamePwd.g.cs
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.baml
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\IPAddressModify.baml
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\socketTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\bin\Debug\socketTest.exe.config
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\bin\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\socketTest_Content.g.cs
+C:\Users\Administrator\Desktop\NGU 3.14\socketTest\socketTest\obj\x86\Debug\socketTest.exe
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\bin\Debug\socketTest.pdb
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\bin\Debug\Log4Net.dll
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\App.baml
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.g.cs
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.g.cs
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.g.cs
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.cache
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\socketTest_MarkupCompile.lref
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\CInput\NetIPControl.baml
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\CInput\NetMACAddressControl.baml
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\FNetEquipManager.baml
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\socketTest.g.resources
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\socketTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\socketTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\bin\Debug\socketTest.dll.config
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\bin\Debug\socketTest.dll
+C:\Users\Administrator\Desktop\简化版\socketTest\socketTest\obj\x86\Debug\socketTest.dll

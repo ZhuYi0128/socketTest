@@ -1,0 +1,38 @@
+﻿<Window x:Class="socketTest.FNetEquipManager"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:socketTest.CInput"
+        Title="设备信息" Height="403.667" Width="431.655">
+    <Border MinHeight="300" MinWidth="420" BorderThickness="1" BorderBrush="CornflowerBlue"  CornerRadius="10" Margin="0,0,4,0" Height="332" VerticalAlignment="Top">
+        <Grid HorizontalAlignment="Left" Width="425" Margin="0,0,0,-43">
+            <Label Canvas.Left="10" Canvas.Top="10" Content="设备名称" Height="25" Name="label3" Width="65" Margin="23,23,337,325" />
+            <TextBox Canvas.Left="75" Canvas.Top="10" Height="25" Name="txtNetEquipName" Width="240" MaxLength="100" TabIndex="0" Margin="85,23,100,325" />
+
+            <Label Canvas.Left="11" Canvas.Top="70" Content="IP地址" Height="25" Name="label1" Width="65" Margin="22,89,337,259" />
+            <local:NetIPControl Canvas.Left="75" Canvas.Top="70" Height="25"  Width="210" x:Name="txtMaskedIPAddress"  KeyboardNavigation.TabNavigation="Local" TabIndex="1" Margin="85,89,130,259" />
+            <local:NetMACAddressControl  Height="25"  x:Name="txtMaskedMACAddress"  KeyboardNavigation.TabNavigation="Local" TabIndex="2" Margin="85,119,80,229"/>
+            <Label Canvas.Left="10" Canvas.Top="40" Content="设备类型" Height="25" Name="label2" Width="65" Margin="22,59,337,289" />
+            <TextBox Canvas.Left="75" Canvas.Top="40" Height="25" MaxLength="100" Name="txtNetEquipTypeName" Width="240" Background="#FFB1F2A7" Margin="85,59,100,289" />
+            <Label Canvas.Left="10" Canvas.Top="100" Content="MAC地址" Height="25" Name="label4" Width="65" Margin="22,119,337,229" />
+            <Label Canvas.Left="10" Canvas.Top="190" Content="描述" Height="25" Name="label5" Width="65" Margin="22,255,337,93" />
+            <TextBox Canvas.Left="75" Canvas.Top="190" Height="70" MaxLength="100" Name="txtEquipDescInfo" Width="240" TabIndex="3" Margin="85,255,100,48"/>
+            <Button Canvas.Left="321" Canvas.Top="100" Content="获取" Height="25" Name="btnGetMacAddress" Width="60" Click="btnGetMacAddress_Click" TabIndex="5" Margin="350,119,15,229" />
+            <Label Canvas.Left="255" Canvas.Top="70" Content="设备编码" Height="25" Name="label11" Width="65" Visibility="Collapsed"/>
+            <TextBox Canvas.Left="320" Canvas.Top="70" Height="25" MaxLength="100" Name="txtNetEquipID" Width="50" IsReadOnly="True" Background="#FFB1F2A7" Text="" Visibility="Collapsed" />
+            <Label Canvas.Left="10" Canvas.Top="130" Content="用户名" Height="25" Name="label6" Width="65" Margin="22,195,337,153" />
+            <TextBox Canvas.Left="75" Canvas.Top="130" Height="25" MaxLength="100" Name="textBox1" TabIndex="0" Width="180" Margin="85,195,160,153" />
+            <Label Canvas.Left="10" Canvas.Top="160" Content="密码" Height="25" Name="label7" Width="65" Margin="23,225,337,123" />
+            <PasswordBox Canvas.Left="75" Canvas.Top="160" Height="25" Name="pbPass" Width="180" TabIndex="2" Margin="85,225,160,123" />
+
+            <local:NetIPControl Height="25"  Width="210" x:Name="txtIPAddress"  KeyboardNavigation.TabNavigation="Local"  Margin="85,157,130,191" />
+            <Label Content="异常监测设备&#xD;&#xA;       IP地址" x:Name="label1_Copy" Margin="5,152,333,183" />
+
+            <Canvas  Margin="0,0,0,-1" Name="canvas2" >
+                <Button Canvas.Left="10" Canvas.Top="335" Height="25" Name="btnSave" Width="80" Click="btnSave_Click" TabIndex="4">确定</Button>
+                <Button Canvas.Right="20" Canvas.Top="335" Content="退出" Height="25" Name="btnClose" Width="80" Click="btnClose_Click" TabIndex="6" Canvas.Left="320"/>
+                <Button Canvas.Left="105" Canvas.Top="335" Content="连接" Height="25" Name="btnCon" TabIndex="4" Width="80" Click="btnCon_Click" />
+            </Canvas>
+
+        </Grid>
+    </Border>
+</Window>
